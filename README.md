@@ -89,11 +89,9 @@ monitoring intensity carry independent clinical and prognostic information.
 | `03_feature_engineering` | 145 temporal features across 3 windows; trajectory observability encoding; missingness indicators |
 | `04_missingness_analysis` | Formal evaluation of informative missingness; monitoring intensity associations |
 | `05_biomarker_trajectories` | Longitudinal trajectory characterisation; FDR-corrected group comparisons; effect sizes |
-| `06_supervised_temporal_validation` | Supervised prediction with strict temporal validation; ROC/PR-AUC; calibration; feature importance |
-| `07_survival_analysis` | Cox PH models; Kaplan–Meier risk stratification; bootstrap CIs; hazard ratio interpretation |
-| `08_refined_modelling/05b` | Refined feature construction and selection |
-| `08_refined_modelling/06b` | Refined supervised modelling with temporal validation |
-| `08_refined_modelling/07b` | Refined survival analysis with temporal validation |
+| `05b_feature_construction_and_selection` | Refined feature construction and selection for supervised and survival modelling |
+| `06b_supervised_temporal_modelling` | Supervised prediction with strict temporal validation; ROC/PR-AUC; calibration; feature importance |
+| `07b_survival_analysis_temporal_validation` | Cox PH models; Kaplan–Meier risk stratification; bootstrap CIs; hazard ratio interpretation |
 
 ---
 
