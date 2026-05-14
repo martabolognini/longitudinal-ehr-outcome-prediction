@@ -3,7 +3,7 @@
 **MD Thesis — Marta Bolognini**
 Vita-Salute San Raffaele University / IRCCS San Raffaele Hospital, Milan
 
-*Supervisors: Prof. Patrizia Rovere Querini (IRCCS San Raffaele) · Prof. Francesca Ieva (Politecnico di Milano / Human Technopole) · Marco Montagna, MD*
+*Supervisors: Prof. Patrizia Rovere Querini (IRCCS San Raffaele) · Prof. Francesca Ieva (Politecnico di Milano / Human Technopole) · Marco Montagna, MD, PhD Health Data Science *
 
 ---
 
